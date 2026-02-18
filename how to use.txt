@@ -1,0 +1,4 @@
+Instructions are inside of the .py file
+
+run in terminal:
+python verify_backup.py "C:\yourPathToFolderWithFiles"
